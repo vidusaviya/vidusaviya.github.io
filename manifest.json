@@ -1,6 +1,6 @@
 {
-  "name": "Vidusaviya.shasra",
-  "short_name": "Vidusaviya.shasra",
+  "name": "BlazorApp1",
+  "short_name": "BlazorApp1",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
