@@ -1,6 +1,6 @@
 {
-  "name": "LocalHostTester",
-  "short_name": "LocalHostTester",
+  "name": "BlazorGithubpagesTemplate",
+  "short_name": "BlazorGithubpagesTemplate",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
