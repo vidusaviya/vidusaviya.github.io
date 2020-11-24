@@ -5,11 +5,15 @@
       "url": ".gitattributes"
     },
     {
+      "hash": "sha256-E8AfyGlMwc3Y1w4vvsq3tqaYgzWAmRbQwTAn8Vpjd74=",
+      "url": ".gitignore"
+    },
+    {
       "hash": "sha256-AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=",
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-Zuk5FBfP0yb50RLMiuUPiJa7spI\/W87RjjD3z6PT82U=",
+      "hash": "sha256-eejatZo6P5lRFVvHUqjG8HbdPwjsyzLrFEOMBTbIAeY=",
       "url": "404.html"
     },
     {
@@ -173,7 +177,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-5NCx6VST\/u\/0YjElu55b6LBt7+5f\/MwlJ40cPoPXBIE=",
+      "hash": "sha256-uugQ+mPLRJdFKSpIVdH2ynmXmhbx2RJPjvSWGlXYcVg=",
       "url": "_framework\/BlazorGithubpagesTemplate.dll"
     },
     {
@@ -249,7 +253,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-eVB1id1jQ16oDc3M19IIRuTX2kas4LOD\/QniEdnBaPA=",
+      "hash": "sha256-fVD1XtZMh0QHKzBJ+l8l7Ogj9bpvxCwtU711v9qU7T4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -257,5 +261,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "SBkP3ICT"
+  "version": "fdYlSS6r"
 };
